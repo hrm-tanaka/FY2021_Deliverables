@@ -1,1 +1,14 @@
+/**JUnit4によるテストの作成*/
 
+    @Test
+    public void findSubscriberCodeByQuery_住所_後方一致検索() {
+        List<Integer> actual = sut.findSubscriberCodeByQuery(null, PatternMatch.SUFFIX.getId(), List.of("白板１丁目2-14"), TimeSequence.CURRENT.getId());
+        assertThat(actual.size(), is(1));
+        assertThat(actual.get(0), is(2389));
+    }
+
+    @Test
+    public void findSubscriberCodeByQuery_住所_後方一致検索_検索結果なし() {
+        List<Integer> actual = sut.findSubscriberCodeByQuery(null, PatternMatch.SUFFIX.getId(), List.of("後方一致テスト"), TimeSequence.CURRENT.getId());
+        assertThat(actual.isEmpty() , is(true));
+    }
