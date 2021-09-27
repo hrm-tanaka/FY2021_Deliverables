@@ -134,3 +134,39 @@ public class Example {
     }
 }
 ```
+### org.junit.runnerとorg.junit.runners
+|||
+|---|---|
+|[@RunWith]()|テストランナを指定する|
+|[@SuiteClasses]()|テストスイートクラスを指定する|
+|[@Parameters]()|パラメータを生成するメソッドを指定する|
+
+### RunWith,SuiteClasses
+```php
+@RunWith(Suite.class)
+@SuiteClasses( { TargetTest1.class, TargetTest2.class})
+public class AllTests {
+}
+```
+### Parameters
+```php
+@RunWith(Parameterized.class)
+public class TargetTest1 {
+    private int num;
+    private String expected;
+    
+    public TargetTest1(int num, String expected) {
+        this.num = num;
+        this.expected = expected;
+    }
+    
+    @Parameters
+    public static Collection<Object[]> data() {
+        return Arrays.asList(new Object[][]{{20, "20"},{100, "100"}});
+    }
+    @Test
+    public void test() throws Exception {
+        assertEquals(expected, Integer.toString(num));
+    }
+}
+```
