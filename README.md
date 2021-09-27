@@ -20,7 +20,7 @@
   > テストするクラスのシナリオをもとにテストメソッドを起こしていく方法．
   > 例えば,テストするクラスの使い方として scenarioA, scenarioB という 2つのシナリオがあれば，テストクラスに testScenarioA, testScenarioB というテストメソッドを用意する．  
   
-  ## [2. テストの実装](doc/2.ImplementingTests.md)
+  ## [2. テストの実装](doc/2.Implementing_Tests.md)
   
 ## 参考
 
