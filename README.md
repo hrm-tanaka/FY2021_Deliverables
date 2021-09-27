@@ -24,4 +24,5 @@
   
 ## 参考
 
-[JUnit API探訪：アノテーション一覧](https://absj31.hatenadiary.com/entry/20120812/1344781770)
+[JUnit API探訪：アノテーション一覧](https://absj31.hatenadiary.com/entry/20120812/1344781770)  
+[Mockitoの飲み方](https://recruit.cct-inc.co.jp/tecblog/java/mockito-primer/)
