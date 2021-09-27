@@ -21,7 +21,7 @@
   > 例えば,テストするクラスの使い方として scenarioA, scenarioB という 2つのシナリオがあれば，テストクラスに testScenarioA, testScenarioB というテストメソッドを用意する．  
   
   ## 2.[テストの実装](doc/2.Implementing_Tests.md)
-  ## 3.[Mockitoとは](doc/3.Mockito.md)
+  ## 3.[Mockitoの使い方](doc/3.Mockito.md)
   
 ## 参考
 
