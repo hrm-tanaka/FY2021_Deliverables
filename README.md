@@ -25,4 +25,6 @@
 ## 参考
 
 [JUnit API探訪：アノテーション一覧](https://absj31.hatenadiary.com/entry/20120812/1344781770)  
-[Mockitoの飲み方](https://recruit.cct-inc.co.jp/tecblog/java/mockito-primer/)
+[【java】Mockitoの飲み方(入門)](https://recruit.cct-inc.co.jp/tecblog/java/mockito-primer/)
+[Mockitoの最低限な使い方](https://qiita.com/fumu238/items/64c910bc36b051c6b976)
+[MockitoとPowerMockの使い分け](https://qiita.com/euledge/items/a224777c15ae7145114a)
