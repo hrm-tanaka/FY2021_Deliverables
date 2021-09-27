@@ -90,3 +90,39 @@ public class Example {
     }
 }
 ```
+### BeforeClass
+```php
+public class Example {
+    DatabaseConnection database;
+    @BeforeClass public static void login() {
+          database= ...;
+    }
+    @Test public void something() {
+          ...
+    }
+    @Test public void somethingElse() {
+          ...
+    }
+    @BeforeClass public static void logout() {
+          database.logout();
+    }
+}
+```
+### AfterClass
+```php
+public class Example {
+    DatabaseConnection database;
+    @BeforeClass public static void login() {
+          database= ...;
+    }
+    @Test public void something() {
+          ...
+    }
+    @Test public void somethingElse() {
+          ...
+    }
+    @AfterClass public static void logout() {
+          database.logout();
+    }
+}
+```
