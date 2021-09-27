@@ -19,7 +19,7 @@
   > テストするクラスのシナリオをもとにテストメソッドを起こしていく方法．
   > 例えば,テストするクラスの使い方として scenarioA, scenarioB という 2つのシナリオがあれば，テストクラスに testScenarioA, testScenarioB というテストメソッドを用意する．  
   
-  ## 2.[JUnitテストの実装](doc/2.Implementing_Tests.md)
+  ## 2.[JUnitの使い方](doc/2.Implementing_Tests.md)
   ## 3.[Mockitoの使い方](doc/3.Mockito.md)
   ## 4.[Spring Frameworkの使い方](doc/4.Spring_Framework.md)
 ## 参考
