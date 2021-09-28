@@ -1,8 +1,8 @@
 ## Spring アノテーション一覧
 
-||||
-|---|---|---|
-|@RequiredArgsConstructor|アノテーションをクラスに指定するとfinalなフィールドを初期化するコンストラクタが生成される||
+|||
+|---|---|
+|@RequiredArgsConstructor|アノテーションをクラスに指定するとfinalなフィールドを初期化するコンストラクタが生成される|
 
 
 #### RequiredArgsConstructor
