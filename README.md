@@ -21,7 +21,7 @@
   
   ## 2.[JUnitの使い方](doc/2.Implementing_Tests.md)
   ## 3.[Mockitoの使い方](doc/3.Mockito.md)
-  ## 4.[Spring Frameworkの使い方](doc/4.Spring_Framework.md)
+  ## 4.[Spring Frameworkの使い方](doc/4.Spring.md)
 ## 参考
 
 [JUnit API探訪：アノテーション一覧](https://absj31.hatenadiary.com/entry/20120812/1344781770)  
