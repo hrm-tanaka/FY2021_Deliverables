@@ -30,4 +30,4 @@
 ## JVM言語
 
 ### 参考資料
-(Javaを使うなら知っておきたい技術)[https://qiita.com/disc99/items/727b51dbe737602a5c91]
+[Javaを使うなら知っておきたい技術](https://qiita.com/disc99/items/727b51dbe737602a5c91)
