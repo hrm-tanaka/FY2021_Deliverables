@@ -10,7 +10,7 @@
 ### 標準API
 
 ### フレームワーク系
-[PlayFramework](2nd_half_deliverables/doc/PlayFramework.md)
+[PlayFramework](doc/PlayFramework.md)
 ### テンプレートエンジン
 
 ### データベース系
