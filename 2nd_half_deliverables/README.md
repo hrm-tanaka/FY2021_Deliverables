@@ -10,8 +10,8 @@
 ### 標準API
 
 ### フレームワーク系
-** [PlayFramework](doc/PlayFramework.md)
-** [SpringFramework](First_half_deliverables/doc/4.Spring.md)
+[PlayFramework](doc/PlayFramework.md).
+[SpringFramework](First_half_deliverables/doc/4.Spring.md).
 ### テンプレートエンジン
 
 ### データベース系
