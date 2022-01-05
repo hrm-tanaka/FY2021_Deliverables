@@ -28,7 +28,7 @@
 ### ビルドツール
 
 ### その他ツール
-[checkstyle](doc/checkstyle.md)
+* [checkstyle](doc/checkstyle.md)
 ### JVM言語
 * [Scala](doc/jvm/Scala.md)
 
