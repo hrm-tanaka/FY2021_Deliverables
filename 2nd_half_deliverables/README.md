@@ -19,7 +19,7 @@
 ### オブジェクトマッピング・帳票出力系
 
 ### テスト系
-* [JUnit](https://github.com/hrm-tanaka/FY2021_Deliverables/blob/main/First_half_deliverables/README.md)
+* [JUnit](https://github.com/hrm-tanaka/FY2021_Deliverables/blob/main/First_half_deliverables/doc/2.Implementing_Tests.md)
 ### ログ系
 
 ### 各種ライブラリ系
