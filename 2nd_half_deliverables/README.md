@@ -6,7 +6,7 @@
 ### サーバ系
 
 ### IDE
-* [Intellij IDEA](doc/ide/Intellij_IDEA.md)
+* [Intellij IDEA](doc/ide/IntelliJ_IDEA.md)
 ### 標準API
 
 ### フレームワーク系
