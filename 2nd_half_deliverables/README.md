@@ -19,7 +19,7 @@
 * [Scala](doc/jvm/Scala.md)
 
 ### その他
-* [Python]()
+* [Python](doc/etc/python.md)
 
 ## 参考資料
 []()  
