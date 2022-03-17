@@ -20,6 +20,7 @@
 
 ### その他
 * [Python](doc/etc/python.md)
+* [Kotlin](doc/etc/Kotlin.md)
 
 ## 参考資料
 []()  
