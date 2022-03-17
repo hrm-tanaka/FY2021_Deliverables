@@ -1,7 +1,7 @@
     /**
      * Excelファイルを読み込みます
      *
-     * @return 業者一覧
+     * @return 
      */
     public List<String[]> readAll() throws IOException {
         List<String[]> results = new ArrayList<>();
