@@ -15,7 +15,7 @@
 * [Logback](doc/log/Logback.md)
 ### その他ツール
 * [checkstyle](doc/checkstyle.md)
-* [Swagger](doc/Swagger.md)
+* [Swagger](doc/swagger.md)
 ### JVM言語
 * [Scala](doc/jvm/Scala.md)
 
