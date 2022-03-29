@@ -16,3 +16,9 @@ Swagger は RESTful APIを構築するためのオープンソースのフレー
 ## Swagger UI
 
 Swagger UIは Swagger-Specを読み込んで、HTML形式でドキュメントを生成するためのツールです。
+
+
+### 参考
+[Migrating from SpringFox](https://springdoc.org/migrating-from-springfox.html)
+[SpringFoxからspringdoc-openapiに移行してみた](https://qiita.com/yukithm/items/fafc54bc331696b0c333)
+[springdoc-openapi-with-global-security-scheme](https://github.com/kogayushi/springdoc-openapi-with-global-security-scheme/blob/main/src/main/java/com/example/springdocopenapiwithglobalsecurityscheme/SpringdocOpenAPIConfig.java)
